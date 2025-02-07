@@ -1,4 +1,4 @@
-# ANIME RECOMMENDATION-SYSTEM
+# ANIME RECOMMENDATION SYSTEM
 This project implements a recommendation system for anime using collaborative filtering and matrix factorization techniques. The system is built using Python and leverages libraries such as pandas, numpy, scikit-learn, and surprise for data processing, model training, and evaluation.
 Introduction
 The goal of this project is to build a recommendation system that suggests anime to users based on their preferences. The system uses collaborative filtering and matrix factorization techniques to predict user ratings and recommend anime that users are likely to enjoy.
