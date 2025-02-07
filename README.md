@@ -44,8 +44,5 @@ The recommendation function takes a user ID and the trained model as input, and 
 ## Results
 The system successfully generates anime recommendations for a given user. For example, for user_id = 1, the top recommendations include popular anime such as "Kimi no Na wa." and "Steins;Gate Movie: Fuka Ryouiki no Déjà vu".
 
-## Evaluation
-The model's performance is evaluated using metrics such as RMSE (Root Mean Squared Error) and MAE (Mean Absolute Error). Additionally, the precision at k (Precision@K) is calculated to assess the quality of the recommendations.
-
 ## Conclusion
 This project demonstrates the implementation of a recommendation system using collaborative filtering and matrix factorization techniques. The system is capable of generating personalized anime recommendations based on user preferences. Future work could include exploring more advanced recommendation algorithms and incorporating additional features such as user demographics and anime metadata.
